@@ -4,7 +4,10 @@ Matthew Werner (mwerner3@stevens.edu)
 
 Sam Bernhardt (sbernhar@stevens.edu)
 
-This program is designed to help coastal engineers identify coastline locations from imagery of sites of interest. Erosion and accretion processes are constantly shaping and reshaping coastlines. Coastal engineers can use this program to track this change over a given period of time.
+This program is designed to help coastal engineers identify coastline locations from imagery of sites of interest. 
+
+## Problem description:
+Erosion and accretion processes are constantly shaping and reshaping coastlines. Coastal engineers can use this program to track this change over a given period of time.
 
 ## Execution and usage:
 To install the required packages, run the program  
@@ -27,6 +30,7 @@ Most of the work is done through the two main classes defined in the program. Ou
 
 Our edge class further optimizes the image for edge detection, then highlights the identified edges in bright red.
 
+## Main Contribution of each teammate:
 Matthew was responsible for building the image and edge classes. He also turned the code into modules, created the main module, and uploaded the modules to GitHub.
 
 Sam was responsible for passing the images to the image class. He also wrote the try/except workflow and the pytest module. Lastly, he wrote the initial README draft.
