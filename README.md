@@ -27,6 +27,10 @@ Most of the work is done through the two main classes defined in the program. Ou
 
 Our edge class further optimizes the image for edge detection, then highlights the identified edges in bright red.
 
+Matthew was responsible for building the image and edge classes. He also turned the code into modules, created the main module, and uploaded the modules to GitHub.
+
+Sam was responsible for passing the images to the image class. He also wrote the try/except workflow and the pytest module. Lastly, he wrote the initial README draft.
+
 ## Author’s info:  
 Matthew Werner and Sam Bernhardt are students at Stevens Institute of Technology in Hoboken, New Jersey.
 
