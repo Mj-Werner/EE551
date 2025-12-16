@@ -1,7 +1,8 @@
 # README: Coastal Edge Detector
 
-Sam Bernhardt (sbernhar@stevens.edu)
 Matthew Werner (mwerner3@stevens.edu)
+
+Sam Bernhardt (sbernhar@stevens.edu)
 
 This program is designed to help coastal engineers identify coastline locations from imagery of sites of interest. Erosion and accretion processes are constantly shaping and reshaping coastlines. Coastal engineers can use this program to track this change over a given period of time.
 
