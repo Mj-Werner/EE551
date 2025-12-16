@@ -31,6 +31,8 @@ Matthew was responsible for building the image and edge classes. He also turned 
 
 Sam was responsible for passing the images to the image class. He also wrote the try/except workflow and the pytest module. Lastly, he wrote the initial README draft.
 
+Sam brought the problem to the group; Matthew identified OpenCV as a potential solution to that problem. We were a great team!
+
 ## Author’s info:  
 Matthew Werner and Sam Bernhardt are students at Stevens Institute of Technology in Hoboken, New Jersey.
 
