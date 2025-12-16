@@ -25,3 +25,13 @@ Our edge class further optimizes the image for edge detection, then highlights t
 
 ## Author’s info:  
 Matthew Werner and Sam Bernhardt are students at Stevens Institute of Technology in Hoboken, New Jersey.
+
+## Code References Used:
+
+1) [OpenCv Training video](https://www.bing.com/videos/riverview/relatedvideo?q=using+OpenCV+to+highlight+coastlines+and+pictures&mid=732A55723526908E421B732A55723526908E421B&FORM=VIRE)
+
+2) [OpenCv Cheat Sheet](https://www.geeksforgeeks.org/python/python-opencv-cheat-sheet/)
+
+3) [OpenCv Documentation](https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html)
+
+4) [OpenCv Addweighted Documentation](https://pytutorial.com/python-opencv-cv2addweighted-guide/)
