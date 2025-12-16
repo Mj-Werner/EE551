@@ -10,13 +10,13 @@ This program is designed to help coastal engineers identify coastline locations 
 Erosion and accretion processes are constantly shaping and reshaping coastlines. Coastal engineers can use this program to track these changes over a given period of time by taking orthographic imagery and processing it to identify the coastal edge.
 
 ## How to use the program:
-To install the required packages, run the program  
+To install the required packages, run this script in the terminal  
 `Required Package Install`
 ```sh
 pip install opencv-python matplotlib numpy pytest
 ```
 
-Usage is straightforward. Users will drop relevant image files into the “Input_Images” folder in the Python working directory. Once all the images are uploaded to the input folder, run the "main.py" file to process the images. The program processes each image file, “finding” the coastal edge, and saves the output image and its detected edges into a folder in the working directory. We have included a sample set of files in the input folder. Make sure to delete the test images from the premade folders before beginning.
+Usage is straightforward. Users will drop relevant image files into the “Input_Images” folder in the Python working directory. Once all the images are uploaded to the input folder, run the "main.py" file to process the images. Once the program is running, type "run" in the terminal to run the image processing, and type "exit" to end the program. The program processes each image file, “finding” the coastal edge, and saves the output image and its detected edges into a folder in the working directory. We have included a sample set of files in the input folder. Make sure to delete the test images from the premade folders before beginning.
 
 ## Program structure:
 
