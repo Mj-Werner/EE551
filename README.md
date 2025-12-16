@@ -7,7 +7,7 @@ Sam Bernhardt (sbernhar@stevens.edu)
 This program is designed to help coastal engineers identify coastline locations from imagery of sites of interest. 
 
 ## Problem description:
-Erosion and accretion processes are constantly shaping and reshaping coastlines. Coastal engineers can use this program to track this change over a given period of time by taking orthographic imagery and processing it to identify the coastal edge.
+Erosion and accretion processes are constantly shaping and reshaping coastlines. Coastal engineers can use this program to track these changes over a given period of time by taking orthographic imagery and processing it to identify the coastal edge.
 
 ## How to use the program:
 To install the required packages, run the program  
