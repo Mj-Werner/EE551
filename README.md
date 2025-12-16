@@ -9,7 +9,7 @@ To install the required packages, run the program
 pip install opencv-python matplotlib numpy pytest
 ```
 
-Usage is straightforward. Users will drop relevant image files into the “Input\_Images” folder in the Python working directory. The program processes each image file, “finding” the coastal edge, and saves the output image and its detected edges into a folder in the working directory. We have included a sample set of files in the input folder. Make sure to delete the test images from the premade folders before beginning.
+Usage is straightforward. Users will drop relevant image files into the “Input_Images” folder in the Python working directory. Once all the images are uploaded to the input folder, run the "main.py" file to process the images. The program processes each image file, “finding” the coastal edge, and saves the output image and its detected edges into a folder in the working directory. We have included a sample set of files in the input folder. Make sure to delete the test images from the premade folders before beginning.
 
 ## Current features:
 
